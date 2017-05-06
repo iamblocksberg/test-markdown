@@ -22,21 +22,21 @@
 
 ----------
 
-*Hola*
+*Italic*
 
-\*Hola\* or \*Hola\*
-
-----------
-
-**Hola**
-
-\**Hola\** or \__Hola\__
+\*Italic\* or \*Italic\*
 
 ----------
 
-_**Hola**_
+**Bold**
 
-\_**Hola\**_ or \**_Hola\_**
+\**Bold\** or \__Bold\__
+
+----------
+
+_**Italic and Bold**_
+
+\_**Text\**_ or \**_Text\_**
 
 ----------
 
@@ -47,9 +47,6 @@ _**Hola**_
 ----------
 
 > Hola
-> HaHa
-
-\> Hola
 
 \> HaHa
 
