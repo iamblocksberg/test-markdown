@@ -85,17 +85,17 @@ _**Italic and Bold**_
 ----------
 
 1.Hola
-1.Hola
-1.Hola
+2.Hola
+3.Hola
   * Hola
 
 \1.Hola
 
-\1.Hola
+\2.Hola
 
-  \1.Hola
+\3.Hola
   
-    \* Hola
+   \* Hola
     
 ----------
 
@@ -108,11 +108,11 @@ _**Italic and Bold**_
 
 ----------
 
--
+---
 
 ----------
 
-\-
+\---
 
 \----------
 
