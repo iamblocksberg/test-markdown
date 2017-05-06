@@ -31,15 +31,15 @@ _**Hola**_ --- \_**Hola\**_ or \**_Hola\_**
 
 1.Hola  --- 1.Hola
 
-1.Hola  ---   1.Hola
+  1.Hola  ---   1.Hola
 
-* Hola ---     * Hola
+    * Hola ---     * Hola
 
 - [x] List --- \- [x] List
 - [ ] List --- \- [ ] List
 
 
-:coffee: --- \:coffee\:
+:coffee: --- \:coffee:
 [See All Emoji](http://emoji.muan.co/)
 
 \# ignore --- \\# ignore
