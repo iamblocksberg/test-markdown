@@ -1,19 +1,52 @@
-# Hola --- \# Hola
-## Hola --- \## Hola
-### Hola --- \### Hola
-#### Hola --- \#### Hola
-##### Hola --- \##### Hola
-###### Hola --- \###### Hola
 
-*Hola* --- \*Hola\* or \*Hola\*
+----------
 
-**Hola** --- \**Hola\** or \__Hola\__
+# Hola
+## Hola
+### Hola
+#### Hola
+##### Hola
+###### Hola
 
-_**Hola**_ --- \_**Hola\**_ or \**_Hola\_**
+\# Hola
+\## Hola
+\### Hola
+\#### Hola
+\##### Hola
+\###### Hola
 
-~~Hola~~ --- \~~Hola\~~
+----------
 
-> Hola --- \> Hola
+*Hola*
+
+\*Hola\* or \*Hola\*
+
+----------
+
+**Hola**
+
+\**Hola\** or \__Hola\__
+
+----------
+
+_**Hola**_
+
+\_**Hola\**_ or \**_Hola\_**
+
+----------
+
+~~Hola~~
+
+\~~Hola\~~
+
+----------
+
+> Hola
+> HaHa
+
+\> Hola
+
+\> HaHa
 
 ----------
 
@@ -21,15 +54,20 @@ _**Hola**_ --- \_**Hola\**_ or \**_Hola\_**
 `npm start`
 
 \`Hola\`
+
 \`npm start\`
 
 ----------
 
-[My Web](http://iamblocksberg.github.io/) --- \[My Web](http://iamblocksberg.github.io/)
+[Link](http://iamblocksberg.github.io/)
+
+\[Link](http://iamblocksberg.github.io/)
 
 ----------
 
-[README.md](README.md) --- \[README.md](README.md)
+[README.md](README.md)
+
+\[README.md](README.md)
 
 ----------
 
@@ -57,24 +95,36 @@ _**Hola**_ --- \_**Hola\**_ or \**_Hola\_**
     
 ----------
 
-- [x] List --- \- [x] List
-- [ ] List --- \- [ ] List
+- [x] List
+- [ ] List
+
+\- [x] List
+
+\- [ ] List
+
+----------
+
+-
 
 ----------
 
 \-
--
+
 \----------
-----------
 
 ----------
 
-:coffee: --- `:coffee:`
+:coffee:
+
+`:coffee:`
+
 [See All Emoji](http://emoji.muan.co/)
 
 ----------
 
-\# ignore --- \\# ignore
+\# ignore
+
+\\# ignore
 
 ----------
 
