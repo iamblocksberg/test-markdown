@@ -53,17 +53,23 @@ _**Hola**_ --- \_**Hola\**_ or \**_Hola\_**
 - [x] List --- \- [x] List
 - [ ] List --- \- [ ] List
 
--
+
 \-
---
+-
 \--
----
+--
 \---
-----
+---
 \----
+----
+\-----
+-----
+\------
+------
 
 
-:coffee: --- :\coffee\:
+
+:coffee: --- `:coffee:`
 [See All Emoji](http://emoji.muan.co/)
 
 \# ignore --- \\# ignore
