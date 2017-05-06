@@ -15,16 +15,23 @@ _**Hola**_ --- \_**Hola\**_ or \**_Hola\_**
 
 > Hola --- \> Hola
 
-`cd Hola` --- \`Hola\`
+----------
 
-`npm start`--- \`npm start\`
+`cd Hola`
+`npm start`
+
+\`Hola\`
+\`npm start\`
+
+----------
 
 [My Web](http://iamblocksberg.github.io/) --- \[My Web](http://iamblocksberg.github.io/)
 
+----------
+
 [README.md](README.md) --- \[README.md](README.md)
 
-
---------------------
+----------
 
 - list
 - list
@@ -33,7 +40,7 @@ _**Hola**_ --- \_**Hola\**_ or \**_Hola\_**
 
 \- list
 
---------------------
+----------
 
 1.Hola
 1.Hola
@@ -48,7 +55,7 @@ _**Hola**_ --- \_**Hola\**_ or \**_Hola\_**
   
     \* Hola
     
---------------------
+----------
 
 - [x] List --- \- [x] List
 - [ ] List --- \- [ ] List
@@ -57,16 +64,6 @@ _**Hola**_ --- \_**Hola\**_ or \**_Hola\_**
 
 \-
 -
-\--
---
-\---
----
-\----
-----
-\-----
------
-\------
-------
 \----------
 ----------
 
