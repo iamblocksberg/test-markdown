@@ -16,8 +16,27 @@ _**Hola**_ --- \_**Hola\**_ or \**_Hola\_**
 > Hola --- \> Hola
 
 `cd Hola` --- \`Hola\`
+
 `npm start`--- \`npm start\`
 
-[My Web](http://iamblocksberg.github.io/) --- \[My Web](http://iamblocksberg.github.io/)\
+[My Web](http://iamblocksberg.github.io/) --- \[My Web](http://iamblocksberg.github.io/)
 
+[README.md](README.md) --- \[README.md](README.md)
+
+-list --- \-list
+
+1.Hola  --- 1.Hola
+1.Hola  --- 1.Hola
+  1.Hola  ---   1.Hola
+    * Hola ---     * Hola
+    
+- [x] List --- \- [x] List
+- [ ] List --- \- [ ] List
+
+@github/support --- \@github/support
+
+:coffee: --- \:coffee\:
+[See All Emoji](http://emoji.muan.co/)
+
+\# ignore
 
