@@ -37,8 +37,8 @@ _**Hola**_ --- \_**Hola\**_ or \**_Hola\_**
 
 1.Hola
 1.Hola
-  1.Hola
-    * Hola
+1.Hola
+  * Hola
 
 \1.Hola
 
@@ -53,6 +53,8 @@ _**Hola**_ --- \_**Hola\**_ or \**_Hola\_**
 - [x] List --- \- [x] List
 - [ ] List --- \- [ ] List
 
+-
+--
 ---
 
 :coffee: --- :\coffee\:
