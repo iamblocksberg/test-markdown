@@ -1,5 +1,7 @@
 
-[See All](https://guides.github.com/features/mastering-markdown/)
+[All Markdown](https://guides.github.com/features/mastering-markdown/)
+
+[All Emoji](http://emoji.muan.co/)
 
 ----------
 
