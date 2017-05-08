@@ -1,4 +1,6 @@
 
+[More](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 [All Markdown](https://guides.github.com/features/mastering-markdown/)
 
 [All Emoji](http://emoji.muan.co/)
